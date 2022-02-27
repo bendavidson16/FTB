@@ -1,0 +1,8 @@
+[21:00:47] [INFO ] Loaded script client_scripts:ui/ui.js in 0.07 s
+[21:00:48] [INFO ] Loaded script client_scripts:jei/unify.js in 0.012 s
+[21:00:48] [INFO ] Loaded script client_scripts:jei/disabled.js in 0.0 s
+[21:00:48] [INFO ] Loaded script client_scripts:jei/ae2.js in 0.057 s
+[21:00:48] [INFO ] Loaded script client_scripts:jei/byg.js in 0.016 s
+[21:00:48] [INFO ] Loaded script client_scripts:jei/jetpack.js in 0.001 s
+[21:00:48] [INFO ] Loaded script client_scripts:jei/rs.js in 0.004 s
+[21:00:48] [INFO ] Loaded 7/7 KubeJS client scripts in 0.168 s

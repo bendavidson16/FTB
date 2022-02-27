@@ -1,0 +1,8 @@
+{
+    "enchantment.create.potato_recovery.desc": "For the Potato Cannon, when enchanted gives the ammo a chance to drop as an item on hit. The chance of ammo being dropped is 25% for Potato Recovery 1, 33% for Potato Recovery 2, and 50% for Potato Recovery 3.",
+    "enchantment.create.capacity.desc": "Applicable on the Copper Backtank for diving. Allows it to store more Pressurized Air for extended dives.",
+    "enchantment.simplyjetpacks.fuel_efficiency.desc": "This somewhat rare enchantment decreases the amount of fuel used by jetpacks and flux packs when flying or being damaged.",
+    "enchantment.mahoutsukai.projector.desc": "Right-click with an armor item on a mahoujin projector (block) to receive a special enchantment that displays that projector's settings.",
+    "enchantment.hunterillager.bounce.desc": "Can be applied onto a Boomerang and each level increases the amount of times it can bounce.",
+    "enchantment.mythicbotany.hammer_mobility.desc": "Increases the attack speed of the Mjöllnir up to more than twice its base amount."
+}
